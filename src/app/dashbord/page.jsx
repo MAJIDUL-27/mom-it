@@ -1,7 +1,7 @@
-import ServiceFour from "@/components/ServiceFour";
-import Services from "@/components/Services";
-import ServiceThree from "@/components/ServiceThree";
-import ServiceTwo from "@/components/ServiceTwo";
+import ServiceFour from "../Components/ServiceFour";
+import Services from "../Components/Services";
+import ServiceThree from "../Components/ServiceThree";
+import ServiceTwo from "../Components/ServiceTwo";
 
 const page = () => {
   return (
